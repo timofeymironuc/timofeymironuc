@@ -32,3 +32,5 @@ git merge ветка - слить ветки
 git mv файл новое имя - переменовать файл
 
 git rm файл - удалить файл
+
+git log --oneline --decorate --graph --all - дерево веток
